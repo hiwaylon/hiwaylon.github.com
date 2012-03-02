@@ -1,0 +1,34 @@
+---
+layout: default
+---
+# First
+
+A test post for blogging with Jekyll.
+
+With some code:
+
+{% highlight ruby %}
+class Thing
+	def initialize(stuff)
+		@stuff = stuff
+	end
+end
+{% endhighlight %}
+
+## Important Things
+
+Delicious!
+
+- Fish
+- Cheese
+- Oranges
+
+Funny.
+
+1. horses
+1. monkeys
+1. cabbage
+
+And a list or two.
+
+That is **all**.
