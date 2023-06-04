@@ -28,9 +28,8 @@ twitter_username: jekyllrb
 github_username:  hiwaylon
 
 # Build settings
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
 
 # Exclude from processing.
